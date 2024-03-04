@@ -1,6 +1,4 @@
-Certainly! Below is a sample README file for your UniPic Photo Gallery website:
 
----
 
 # UniPic Photo Gallery
 
